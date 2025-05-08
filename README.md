@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ravinda Duljaya</h1>
+<h3 align="center">Passionate Software Engineering Undergraduate | Full-Stack Developer</h3>
 
-<!--
-**ravinda-jay/ravinda-jay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+%7C+Full+Stack+Developer;React+%7C+Node+%7C+SpringBoot+%7C+Flutter;Always+learning+new+technologies!&center=true&width=500&height=45">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on:
+- Blood Donation Platform (React.js + Node.js)
+- Learning Cloud & DevOps tools 🚀
+
+🌱 I’m currently learning:
+- Docker, GitHub Actions, Firebase, Next.js
+
+📄 Know about my experiences:  
+Check out my [portfolio](#) *(Add your real portfolio link here)*
+
+📫 How to reach me:  
+**Email**: ravinduduljaya@gmail.com  
+**Location**: Kalutara, Sri Lanka  
+
+💡 Fun facts:
+- 🧠 Chess and Coding go hand-in-hand for me.
+- 🏉 Played competitive Rugby and Athletics.
+- 🛠️ I love tinkering with command-line tools & terminal automation.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+```bash
+Languages:   Java | JavaScript | Python | PHP | Dart  
+Frontend:    ReactJS | HTML | CSS | JavaFX | Flutter  
+Backend:     Node.js | Spring Boot | MySQL | MongoDB  
+Tools:       Git | GitHub | VS Code | IntelliJ | Postman | Android Studio  
+OS/CLI:      Linux | PowerShell | Bash | BatchScript
